@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sachinmarkus
-- 👀 I’m interested in ...
-- 🌱 I’m currently studying actuarial studies and data science.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying actuarial studies and data science at Macquarie University.
 - 📫 How to reach me:
     - LinkedIn: https://www.linkedin.com/in/sachin-markus-290547129/
 
